@@ -1,0 +1,5 @@
+<launch>
+
+     <rosparam command="load" file="$(find dlo_system_pkg)/config/params_sim.yaml" />
+
+</launch>

@@ -1,0 +1,30 @@
+# for the whole system
+project_dir: '/home/mingrui/Mingrui/Research/DLO/project_journal_21/shape_control_DLO_2/'
+
+# for environment
+env/sim_or_real: 'sim'
+env/dimension: '3D'  # '2D' or '3D'
+
+ros_rate/env_rate: 10
+ros_rate/online_update_rate: 50
+
+
+# for DLO
+DLO/num_FPs: 10
+
+
+# for offline learning
+learning/is_test: false  # if using the controller, set it as false;
+
+
+# for the controller
+controller/object_fps_idx: [1, 2, 3, 4, 5, 6, 7, 8]  # index of target points 
+controller/enable_end_rotation: true
+controller/enable_left_arm: true
+controller/enable_right_arm: true 
+
+controller/control_law: 'ours'
+controller/offline_model: '10*6'  # '10*0.2' or '10*1' or '10*6'
+
+controller/online_learning/learning_rate: 1.0
+controller/online_learning/weight_ratio: 10 # learning rate of prediction error / learning rate of task error

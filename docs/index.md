@@ -2,9 +2,7 @@
 
 The paper is accepted by IEEE Transactions on Robotics (IEEE T-RO).
 
-[[arXiv](https://arxiv.org/abs/2205.04004)]
-
-The code will be released soon (no later than October, 2022).
+[[arXiv](https://arxiv.org/abs/2205.04004)] [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9888782/)] [[Code](https://github.com/Mingrui-Yu/shape_control_DLO_2)]
 
 
 
@@ -25,7 +23,7 @@ Robotic manipulation of deformable linear objects (DLOs) has broad application p
 
 Please cite our paper if you find it helpful :)
 ```
-@ARTICLE{ yu2022global,  
+@ARTICLE{yu2022global,  
   author={Yu, Mingrui and Lv, Kangchen and Zhong, Hanzhong and Song, Shiji and Li, Xiang},  
   journal={IEEE Transactions on Robotics},   
   title={Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach},   
