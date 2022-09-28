@@ -1,4 +1,4 @@
-results
+results/*
 
 ws_dlo/*
 !ws_dlo/src
