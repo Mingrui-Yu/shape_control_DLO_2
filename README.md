@@ -85,6 +85,8 @@ Modifiable parameters in *dlo_system_pkg/config/params_sim.yaml*:
 
 ### Shape Control Tasks
 
+We provide a demo of  DLO shape control, which can be easily run with as less dependencies as possible.
+
 Source the workspace:
 
 ```
