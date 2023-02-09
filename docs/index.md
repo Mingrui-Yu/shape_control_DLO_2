@@ -23,16 +23,15 @@ Robotic manipulation of deformable linear objects (DLOs) has broad application p
 
 Please cite our paper if you find it helpful :)
 ```
-@ARTICLE{yu2022global,  
-  author={Yu, Mingrui and Lv, Kangchen and Zhong, Hanzhong and Song, Shiji and Li, Xiang},  
-  journal={IEEE Transactions on Robotics},   
-  title={Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach},   
-  year={2022},  
-  volume={},  
-  number={},  
-  pages={},  
-  doi={}
-}
+@ARTICLE{yu2022global,
+  author={Yu, Mingrui and Lv, Kangchen and Zhong, Hanzhong and Song, Shiji and Li, Xiang},
+  journal={IEEE Transactions on Robotics}, 
+  title={Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach}, 
+  year={2023},
+  volume={39},
+  number={1},
+  pages={417-436},
+  doi={10.1109/TRO.2022.3200546}}
 ```
 
 
